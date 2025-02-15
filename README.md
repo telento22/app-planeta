@@ -1,6 +1,5 @@
-# myapp
-
-A new Flutter project.
+#App-Planetas.
+Aplicativo desenvolvido no curso
 
 ## Getting Started
 
