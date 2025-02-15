@@ -1,5 +1,7 @@
 #App-Planetas.
-Aplicativo desenvolvido no curso
+
+
+Aplicativo desenvolvido no curso Desenvolvimento de Aplicativos Móveis.
 
 ## Getting Started
 
